@@ -1,73 +1,24 @@
-# به یادگیری گیت خوش اومدین
+# 🌟 **آموزش  Git**  
 
-ما اینجا باهم گیت رو یاد میگیریم و تلاش میکنیم که تمرین داشته باشیم باهم
-##  لیست مباحث
+اینجا می‌خوایم **Git** رو از پایه  با زبون ساده و مثال‌های کاربردی یاد بگیریم.  
 
-* [کامند های بیسیک]()
+---
 
-## Project layout
+## 📖 **چی می‌خوایم یاد بگیریم؟**  
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-# Project layout
+### **🔷 قدم اول (آسون)**  
+- [Git چیه؟ چرا لازمه؟](./tier1/1.md)  
+- [نصب Git و اولین ذخیره‌سازی](./tier1/2.md)  
+- [چطور تغییرات رو ثبت کنیم؟ (commit)](./tier1/3.md)  
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-# Project layout
+### **🔶 قدم دوم (کمی پیشرفته‌تر)**  
+- [ادغام کردن تغییرات (merge)](./tier2/1.md)  
+- [آپلود پروژه روی GitHub](./tier2/2.md)  
+- [رفتن به گذشته! (برگردوندن تغییرات)](./tier2/3.md)  
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-# Project layout
+### **🔴 قدم سوم (حرفه‌ای)**  
+- [اتوماتیک کردن کارها با Git](./tier3/1.md)  
+- [مدیریت پروژه‌های بزرگ](./tier3/2.md)  
+- [ترفندهای کاربردی](./tier3/3.md)  
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-# Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-# Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-# Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-# Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-# Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-# Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-# Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
