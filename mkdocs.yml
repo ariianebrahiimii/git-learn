@@ -1,0 +1,18 @@
+site_name: آموزش Git
+site_url: https://git.arianebrahimi.ir
+repo_url: https://github.com/ariianebrahiimii/git-learn
+repo_name: ariianebrahiimii/git-learn
+
+theme:
+  name: material
+  font: Vazirmatn
+  logo: assets/Git-Logo-1788C.png
+  direction: rtl
+  language: fa
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - search.suggest
+    - search.share
+  icon:
+    repo: fontawesome/brands/github
